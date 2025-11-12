@@ -25,9 +25,12 @@ Foi usado o Dataset FitBit Fitness Tracker, disponibilizado por Mobius. São dad
 **3. Processar e limpar dados**
 Os conjuntos de dados foram analisados no programa RStudio, aproveitando da alta funcionalidade da linguagem R. Foram aplicadas importação dos arquivos, remoção de duplicatas, certificação de dados únicos e consistentes, formatação numérica quando necessário, realizada a média de comparação e gráficos de comparação.
 
+</br>
 
-Documentação de qualquer limpeza ou manipulação de dados:
-
+<details>
+<summary> <h2>
+ Documentação de qualquer limpeza ou manipulação de dados:</h2>
+</summary>
 
 ### Instalação
 ```r
@@ -159,8 +162,10 @@ mean_c
 
 
 
+</details>
 
 
+</br>
 
 ## Gráficos de comparação
 ```r
