@@ -3,9 +3,17 @@
 <img src="https://img.freepik.com/vetores-gratis/conceito-de-saude-de-auto-cuidado_23-2148517202.jpg" width=400px >
 </div>
 
+</br>
+
+
+> **Texto de B_**
+
+
+</br>
+
 
 # ℹ️ Introdução
-> Esta análise é sobre o mercado de dispositivos de inteligência na área de saúde feminina, para a empresa Bellabeat, com foco especial no crescimento da empresa através de análise de dados para novas tendências. Bellabeat é uma pequena empresa fabricante de produtos de alta tecnologia voltados à saúde da mulher e, por ter potencial para adquirir maior participação no mercado global de dispositivos inteligentes, a CEO da Bellabeat acredita que encontrarão novas oportunidades de crescimento através da análise de dados de condicionamento físico a partir de dispositivos inteligentes. Os conjuntos de dados utilizados nesta análise foram gerados pelos participantes de uma pesquisa distribuída entre 12.03.2016 e 12.05.2016. Foram observados os dados de trinta usuários qualificados do Fitbit que consentiram o envio de dados pessoais como: o resultado em nível de minuto para atividade física, frequência cardíaca e monitoramento do sono. Esperamos que esta análise esclareça qualquer dúvida quanto às etapas de análise necessária para o aprimoramento da empresa em questão.
+Esta análise é sobre o mercado de dispositivos de inteligência na área de saúde feminina, para a empresa Bellabeat, com foco especial no crescimento da empresa através de análise de dados para novas tendências. Bellabeat é uma pequena empresa fabricante de produtos de alta tecnologia voltados à saúde da mulher e, por ter potencial para adquirir maior participação no mercado global de dispositivos inteligentes, a CEO da Bellabeat acredita que encontrarão novas oportunidades de crescimento através da análise de dados de condicionamento físico a partir de dispositivos inteligentes. Os conjuntos de dados utilizados nesta análise foram gerados pelos participantes de uma pesquisa distribuída entre 12.03.2016 e 12.05.2016. Foram observados os dados de trinta usuários qualificados do Fitbit que consentiram o envio de dados pessoais como: o resultado em nível de minuto para atividade física, frequência cardíaca e monitoramento do sono. Esperamos que esta análise esclareça qualquer dúvida quanto às etapas de análise necessária para o aprimoramento da empresa em questão.
 
 # 🧩 Análise dos Dados
 **1. Tarefa de Negócios**
@@ -232,9 +240,17 @@ ggplot(data=df_dailyactivity, aes(x=sedentary_minutes, y=very_active_minutes)) +
 >[!NOTE]
 > Nota-se uma ligeira inclinação, abordando a provável falta de utilização do dispositivo em alguns momentos do dia.
 
+</br>
 
 
-# 🔚 Finalização
+# 💻 Linguagem utilizada
+- [R](https://www.r-project.org/other-docs.html)
+
+
+</br>
+
+
+# 🔚 Consideração final
 > Como mencionado anteriormente, a Bellabeat, uma empresa de alta tecnologia que fabrica produtos inteligentes fundada em 2013, cresceu e continua crescendo na indústria trazendo preocupação constante na área da saúde e bem-estar feminino. E esse apreço permitiu que mais mulheres se conhecessem e procurassem melhorar sua própria saúde e hábitos.
 Após analisar os dados do Fibit encontramos insights que viriam a nos ajudar na criação de novas tendências de negócios.
 O público alvo da empresa seria as mulheres, as que trabalham, as que ficam em casa e as que trabalham em casa. Estas, que desejam e necessitam realizar alguma atividade, leve ou moderada, para que se mantenham saudáveis e tenham um dia melhor, precisam de algum tipo de medidor para constatarem estar no caminho certo.
@@ -256,6 +272,8 @@ Obrigada por continuarem comigo até aqui!
 
 
 
+
+</br>
 
 
 # ®️ License
