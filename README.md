@@ -184,7 +184,7 @@ ggplot(data=df_dailyactivity, aes(x=total_steps, y=calories)) +
   theme(plot.title = element_text(size=20, color="#993399"), plot.subtitle = element_text(size=10, color = "#ac58aa"), plot.caption = element_text(color="#993399"))
 ```
 <div align="center">
-<img src="https://www.kaggleusercontent.com/kf/144352448/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..JbA91qwBnysnxhkMjP78Dg.tkt12a8q7WxGWx81sy5O9662kdmK6SrfRDSD7wUoD840vkvgpvFKmLjBvdbhEA4Kz2y1OUIzKFx-OWvXd6XQRvsn5ipX6Kl5ZaMKGfpA9HFqWiFSlPxcpnQxeRY0SnNctiNiBsxyCphZhWZGJRiHsfg9gUXXY5runJ3Ex3ddxAfLahthqw5u7xBTRXfnH3rSkMo8XL71cNp_KdxVGHyR171KwA85KBkA8MqZrDKqeZPJUr2l1sBivWqn-SsexYpPG5de3zDPX4PT8UIoWNJxj_WOu0SevbEIK-w7Z4JdeJ_THc0NhFnSNr3LpR6d8slZ2XtaBS3HIHyyXQ4mtEwN0hBwJ386yabd8toe1GapYHK8beVP7LKSdMI7TayO2AnlZfooG7T00jMV3FsWN8UEA5qnRhZoCGTS-X--D4EtKbiaM7zqfoQSANhB2WNOvm--X-_rnnCovk9E4l6US8ym61RxKrtZsEQdzhpcfaqUTlAopNnKNR-q5_Hzz8X6QfsN3z--yZQmKiQxqHyO-wHuhYSU9lyMOWnf_0N9uAag1B7gImTugUbwjLJ30GV4nwvTb6C11QH_oT-z-pTHFkA9CMxwMxnTSV4Np96I3GdAoIPXx2s52oWedFHpvUfmfb_UwqgBRp2z03Ej9reabffUUT9lPyTM3mfiJKjC0A_FtRE.bR3Kwl2OwjCBSuu_l64QPA/__results___files/__results___21_1.png" width=400px >
+<img src="https://github.com/eibeea/case-study-dispositivos-de-bem-estar-by-b/blob/main/img1.png" width=400px >
 </div>
 
 
@@ -199,7 +199,7 @@ ggplot(data = mean_calories, aes(x=mean, y=id)) + stat_smooth(method = "lm", col
 ```
 
 <div align="center">
-<img src="https://www.kaggleusercontent.com/kf/144352448/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ZbsqXvFB49AhwBxvPsREAQ.lZXGBX8ozvwaAFjE4gilA9dO-qgS8hIFGkkr3aLJdUvd5R5kHxuJHrzKt9xK96fwtwQLFt_kWFzjTfuUCyHIR196JvJ5P9zwxrE_bRGeZw99WT3Yyv4iwrDqR6vDMWBBknG1-ef6bh1YGEEfLRMGRHfUFLyX0kgV2r61R4NO_X9UJpmSVuMKAbtGW5niRd1ct28TwFMDfLOvEte1lf_FoodF1TzVwpNxEOEE1EiK8S5cSF_jZKNbfLWZkpuC8YKAzYoBN9Kh6GaLKIXBqklaUZ3j-fld8BI63XHJCuQV5GblHfRND4QvMNfLy3kjL2h8H5IAWYiQSAbxpUIBlNiWtuacOLq671rbPe8ERo2YxgA3pHdu3XSdrUOHBLBVrFm3VXqd05eHAGirsDCnfwVW9RGZzQZDfgA7LJoamtzsoFnRzZJlxwiimRKNQm4IxPbeQXLN8E4Ags1LXzWsGInuaNLZruzOx1yZrlo0_5THk_M28tQ52nvnqXJHSrfGn-zfBHELtIKhqkZ6qM8bkjV1M-MakWpFi3-LN1T8zkPvRM6Zwl_DecGUH-GiqbXYxXWPDlc63_XXPVb1R3sESyMxutJRl7Sa4U9YhDOqCZKLn6tvXhraoIVco6zL6-JAeteg4KcoMpQdokF0lxLlZATFCVTk0Bct9hyc65cE_4YRCp4.pqQZle7ipC_zXAJmRG_7Dg/__results___files/__results___23_1.png" width=400px >
+<img src="https://github.com/eibeea/case-study-dispositivos-de-bem-estar-by-b/blob/main/img2.png" width=400px >
 </div>
 
 >[!NOTE]
@@ -212,7 +212,7 @@ ggplot(data = mean_sleep, aes(x=mean_sleep, y=id)) + stat_smooth(method = "lm", 
   theme(plot.title = element_text(size=20, color="#993399"), plot.subtitle = element_text(size=10, color = "#ac58aa"), plot.caption = element_text(color="#993399"))
 ```
 <div align="center">
-<img src="https://www.kaggleusercontent.com/kf/144352448/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ZbsqXvFB49AhwBxvPsREAQ.lZXGBX8ozvwaAFjE4gilA9dO-qgS8hIFGkkr3aLJdUvd5R5kHxuJHrzKt9xK96fwtwQLFt_kWFzjTfuUCyHIR196JvJ5P9zwxrE_bRGeZw99WT3Yyv4iwrDqR6vDMWBBknG1-ef6bh1YGEEfLRMGRHfUFLyX0kgV2r61R4NO_X9UJpmSVuMKAbtGW5niRd1ct28TwFMDfLOvEte1lf_FoodF1TzVwpNxEOEE1EiK8S5cSF_jZKNbfLWZkpuC8YKAzYoBN9Kh6GaLKIXBqklaUZ3j-fld8BI63XHJCuQV5GblHfRND4QvMNfLy3kjL2h8H5IAWYiQSAbxpUIBlNiWtuacOLq671rbPe8ERo2YxgA3pHdu3XSdrUOHBLBVrFm3VXqd05eHAGirsDCnfwVW9RGZzQZDfgA7LJoamtzsoFnRzZJlxwiimRKNQm4IxPbeQXLN8E4Ags1LXzWsGInuaNLZruzOx1yZrlo0_5THk_M28tQ52nvnqXJHSrfGn-zfBHELtIKhqkZ6qM8bkjV1M-MakWpFi3-LN1T8zkPvRM6Zwl_DecGUH-GiqbXYxXWPDlc63_XXPVb1R3sESyMxutJRl7Sa4U9YhDOqCZKLn6tvXhraoIVco6zL6-JAeteg4KcoMpQdokF0lxLlZATFCVTk0Bct9hyc65cE_4YRCp4.pqQZle7ipC_zXAJmRG_7Dg/__results___files/__results___25_1.png" width=400px >
+<img src="https://github.com/eibeea/case-study-dispositivos-de-bem-estar-by-b/blob/main/img3.png" width=400px >
 </div>
 
 
@@ -223,7 +223,7 @@ ggplot(data=df_sleepday, aes(x=total_minutes_asleep, y=total_time_in_bed)) + geo
 ```
 
 <div align="center">
-<img src="https://www.kaggleusercontent.com/kf/144352448/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ZbsqXvFB49AhwBxvPsREAQ.lZXGBX8ozvwaAFjE4gilA9dO-qgS8hIFGkkr3aLJdUvd5R5kHxuJHrzKt9xK96fwtwQLFt_kWFzjTfuUCyHIR196JvJ5P9zwxrE_bRGeZw99WT3Yyv4iwrDqR6vDMWBBknG1-ef6bh1YGEEfLRMGRHfUFLyX0kgV2r61R4NO_X9UJpmSVuMKAbtGW5niRd1ct28TwFMDfLOvEte1lf_FoodF1TzVwpNxEOEE1EiK8S5cSF_jZKNbfLWZkpuC8YKAzYoBN9Kh6GaLKIXBqklaUZ3j-fld8BI63XHJCuQV5GblHfRND4QvMNfLy3kjL2h8H5IAWYiQSAbxpUIBlNiWtuacOLq671rbPe8ERo2YxgA3pHdu3XSdrUOHBLBVrFm3VXqd05eHAGirsDCnfwVW9RGZzQZDfgA7LJoamtzsoFnRzZJlxwiimRKNQm4IxPbeQXLN8E4Ags1LXzWsGInuaNLZruzOx1yZrlo0_5THk_M28tQ52nvnqXJHSrfGn-zfBHELtIKhqkZ6qM8bkjV1M-MakWpFi3-LN1T8zkPvRM6Zwl_DecGUH-GiqbXYxXWPDlc63_XXPVb1R3sESyMxutJRl7Sa4U9YhDOqCZKLn6tvXhraoIVco6zL6-JAeteg4KcoMpQdokF0lxLlZATFCVTk0Bct9hyc65cE_4YRCp4.pqQZle7ipC_zXAJmRG_7Dg/__results___files/__results___26_1.png" width=400px >
+<img src="https://github.com/eibeea/case-study-dispositivos-de-bem-estar-by-b/blob/main/img4.png" width=400px >
 </div>
 
 ```r
@@ -234,7 +234,7 @@ ggplot(data=df_dailyactivity, aes(x=sedentary_minutes, y=very_active_minutes)) +
   theme(plot.title = element_text(size=20, color="#993399"), plot.subtitle = element_text(size=10, color = "#ac58aa"), plot.caption = element_text(color="#993399"))
 ```
 <div align="center">
-<img src="https://www.kaggleusercontent.com/kf/144352448/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ZbsqXvFB49AhwBxvPsREAQ.lZXGBX8ozvwaAFjE4gilA9dO-qgS8hIFGkkr3aLJdUvd5R5kHxuJHrzKt9xK96fwtwQLFt_kWFzjTfuUCyHIR196JvJ5P9zwxrE_bRGeZw99WT3Yyv4iwrDqR6vDMWBBknG1-ef6bh1YGEEfLRMGRHfUFLyX0kgV2r61R4NO_X9UJpmSVuMKAbtGW5niRd1ct28TwFMDfLOvEte1lf_FoodF1TzVwpNxEOEE1EiK8S5cSF_jZKNbfLWZkpuC8YKAzYoBN9Kh6GaLKIXBqklaUZ3j-fld8BI63XHJCuQV5GblHfRND4QvMNfLy3kjL2h8H5IAWYiQSAbxpUIBlNiWtuacOLq671rbPe8ERo2YxgA3pHdu3XSdrUOHBLBVrFm3VXqd05eHAGirsDCnfwVW9RGZzQZDfgA7LJoamtzsoFnRzZJlxwiimRKNQm4IxPbeQXLN8E4Ags1LXzWsGInuaNLZruzOx1yZrlo0_5THk_M28tQ52nvnqXJHSrfGn-zfBHELtIKhqkZ6qM8bkjV1M-MakWpFi3-LN1T8zkPvRM6Zwl_DecGUH-GiqbXYxXWPDlc63_XXPVb1R3sESyMxutJRl7Sa4U9YhDOqCZKLn6tvXhraoIVco6zL6-JAeteg4KcoMpQdokF0lxLlZATFCVTk0Bct9hyc65cE_4YRCp4.pqQZle7ipC_zXAJmRG_7Dg/__results___files/__results___27_1.png" width=400px >
+<img src="https://github.com/eibeea/case-study-dispositivos-de-bem-estar-by-b/blob/main/img5.png" width=400px >
 </div>
 
 >[!NOTE]
